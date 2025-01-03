@@ -17,6 +17,10 @@ ALPH AI Agent is an AI-powered token analysis tool tailored for the Solana ecosy
 - AI-driven trading recommendations
 - Clean and intuitive UI
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 ## Installation
 1. Clone the repository:
    ```bash
@@ -27,5 +31,6 @@ ALPH AI Agent is an AI-powered token analysis tool tailored for the Solana ecosy
 ## Usage
 Start the local development server:
 ```bash
-  npm start
+npm start
+
 
