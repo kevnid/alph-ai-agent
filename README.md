@@ -1,2 +1,4 @@
-# alph-ai-agent
-AI-powered token analysis tool for Solana ecosystem. Provides real-time data, analytics, and actionable insights for smarter trading.
+# ALPH AI Agent 🚀
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
