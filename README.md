@@ -1,8 +1,8 @@
-# ALPH AI Agent 🚀
+# Nugget AI 🚀
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-ALPH AI Agent is an AI-powered token analysis tool tailored for the Solana ecosystem. It provides real-time insights, token analytics, and actionable trading data to empower investors.
+Nugget AI Agent is an AI-powered token analysis tool tailored for the Solana ecosystem. It provides real-time insights, token analytics, and actionable trading data to empower investors.
 
 ## Table of Contents
 - [Features](#features)
@@ -24,8 +24,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kevnid/alph-ai-agent.git
-   cd alph-ai-agent
+   git clone https://github.com/kevnid/nugget-ai.git
+   cd nugget-ai
    npm install
 
 ## Usage
